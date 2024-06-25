@@ -663,6 +663,7 @@ footer .coeur {
     font-size: 1.5rem;
     color: #0c2c43;
     margin-top: 50px;
+    
    
 }
 .servhero{
@@ -676,6 +677,7 @@ footer .coeur {
     flex-direction: column;
     align-items: center;
     
+    
 }
 
 .serv{
@@ -686,6 +688,8 @@ footer .coeur {
     width: 60%;
     border: 1px solid #0c2c43;
     margin-bottom: 20px;
+  
+    
     
     
 }
@@ -694,6 +698,7 @@ footer .coeur {
     margin-top: 25px;
     height: 50%;
     border-radius: 10px;
+    
 }
 .serv h2 {
     color: #0c2c43;
@@ -967,6 +972,10 @@ footer .coeur {
   .contact-map {
     margin-left: -330px;
     margin-top: 150px;
+    
+    
+   
+    
   }
   
   
